@@ -1,3 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
 html {
     scroll-behavior: smooth;
 }
+
+.fixed-top.scrolled {
+    background-color: rgba(65,150,242,0.95);
+    transition: background-color 400ms linear;
+  }
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #000;
+}
+
+hr {
+    border-top:1px solid #3FA9F5
+}
+
+h4 {
+    font-weight: 900;
+}
+
+h2 {
+    color:#fff;
+}
+
+.fondo-titulo-articulo {
+    background-color: #3FA9F5;
+}
+
+.fab {
+    font-size: 1.5em;
+    color: #fff;
+}
+
+
