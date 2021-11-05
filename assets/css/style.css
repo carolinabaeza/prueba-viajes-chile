@@ -4,6 +4,7 @@ html {
     scroll-behavior: smooth;
 }
 
+/*importante - background para menu scroll*/
 .fixed-top.scrolled {
     background-color: rgba(65,150,242,0.95);
     transition: background-color 400ms linear;
@@ -30,6 +31,7 @@ h2 {
     background-color: #3FA9F5;
 }
 
+/*para fontawesome*/
 .fab {
     font-size: 1.5em;
     color: #fff;
