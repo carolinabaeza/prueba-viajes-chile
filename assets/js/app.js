@@ -37,7 +37,7 @@ $(function () {
 
 //funcion texto amarillo
 $(".texto-amarillo").dblclick(function () {
-    $(this).css("color","#ffff00")
+    $(this).css("color","yellow")
     });
 
 
