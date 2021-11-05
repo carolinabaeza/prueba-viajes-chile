@@ -33,3 +33,9 @@ $("#accion-tarjeta-1").click (function () {
                       $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
                     });
                   });
+
+
+                  
+
+
+                  
